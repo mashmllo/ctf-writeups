@@ -12,52 +12,52 @@ CYBAR is a not-for-profit event in Melbourne, Australia for students who have an
 
 ## Tutorial 
 
-[Tutorial Island]()
+[Tutorial Island](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Tutorial%20Island.md)
 
 ## General 
 
-[Where in the world is Wuhan - Part I]() <br> <br>
+[Where in the world is Wuhan - Part I](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20I) <br> <br>
 
-[Trojan Horse]() <br> <br>
+[Trojan Horse](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Trojan%20Horse) <br> <br>
 
-[Static on the Wire]() <br> <br>
+[Static on the Wire](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Static%20on%20the%20Wire) <br> <br>
 
-[Lies and Treason]() <br> <br>
+[Lies and Treason](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Lies%20%26%20Treason) <br> <br>
 
-[Fake News]() <br> <br>
+[Fake News](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Fake%20News) <br> <br>
 
-[Where in the world is Wuhan - Part II]() <br> <br>
+[Where in the world is Wuhan - Part II](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20II) <br> <br>
 
-[Curious Case of COVID]() <br> <br>
+[Curious Case of COVID](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Curious%20Case%20of%20COVID) <br> <br>
 
 ## Social
 
-[You've heard of elf on the shelf, but what about the proliferation of COVID-19?]() <br> <br>
+[You've heard of elf on the shelf, but what about the proliferation of COVID-19?](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/You've%20heard%20of%20elf%20on%20the%20shelf%2C%20but%20what%20about%20the%20proliferation%20of%20COVID-19.md) <br> <br>
 
-[By A Thread - Part I]() <br> <br>
+[By A Thread - Part I](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/By%20A%20Thread%20-%20Part%201/solution.md) <br> <br>
 
-[By A Thread - Part II]() <br> <br>
+[By A Thread - Part II](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/By%20A%20Thread%20-%20Part%202/solution.md) <br> <br>
 
-[WFH (EoM) - Part I]() <br> <br>
+[WFH (EoM) - Part I](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%201/solution.md) <br> <br>
 
-[WFH (EoM) - Part II]() <br> <br>
+[WFH (EoM) - Part II](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%202/solution.md) <br> <br>
 
-[WFH (EoM) - Part III]() <br> <br>
+[WFH (EoM) - Part III](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%203/solution.md) <br> <br>
 
-[Clocking Overtime]() <br> <br>
+[Clocking Overtime](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Clocking%20Overtime/solution.md) <br> <br>
 
-[Pretty Fly for a WiFi]() <br> <br>
+[Pretty Fly for a WiFi](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Pretty%20Fly%20for%20a%20WiFi/solution.md) <br> <br>
 
-[Contact Tracing - Part I]() <br> <br>
+[Contact Tracing - Part I](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20I/solution.md) <br> <br>
 
-[Contact Tracing - Part II]() <br> <br>
+[Contact Tracing - Part II](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20II/solution.md) <br> <br>
 
-[Contact Tracing - Part III]() <br> <br>
+[Contact Tracing - Part III](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20III/solution.md) <br> <br>
 
-[Contact Tracing - Part IV]() <br> <br>
+[Contact Tracing - Part IV](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20IV/solution.md) <br> <br>
 
-[Contact Tracing - Part V]() <br> <br>
+[Contact Tracing - Part V](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20V/solution.md) <br> <br>
 
-[Contact Tracing - Part VI]() <br> <br>
+[Contact Tracing - Part VI](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/solution.md) <br> <br>
 
-[Contact Tracing - Part VII]() <br> <br>
+[Contact Tracing - Part VII](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VII/solution.md) <br> <br>
