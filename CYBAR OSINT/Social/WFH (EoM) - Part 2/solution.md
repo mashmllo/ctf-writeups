@@ -22,7 +22,7 @@ Flag format: CYBAR{x}
 
 ## Solution 
 
-By searching for "melbourne city/building databases" a [website database containing this information](data.melbourne.vic.gov.au) is found. 
+By searching for "melbourne city/building databases" a [website database containing this information](data.melbourne.vic.gov.au) is found. Other architectural and real estate sites also reveal this.
 
 By cross referencing with multiple sources, the flag can be found. Two flags included for counting basements and not.
 
