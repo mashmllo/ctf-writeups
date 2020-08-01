@@ -30,7 +30,7 @@ Flag format: CYBAR{x x x}
 ## Solution
 
 By visiting the website, information of Alycee's tax agent can be found. 
-![paul N]()
+![paul N](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/By%20A%20Thread%20-%20Part%201/by_a_thread_1.png)
 <br>
 Reach out to Paul by requesting information on his clients using the email address on his Airtasker profile page. He sends a 'public' copy that has the ABN.
 
@@ -39,4 +39,4 @@ Reach out to Paul by requesting information on his clients using the email addre
 CYBAR{546 877 954}
 
 ## File 
-[Alycee's file]()
+[Alycee's file](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/By%20A%20Thread%20-%20Part%201/alycee-tax-private.pdf)
