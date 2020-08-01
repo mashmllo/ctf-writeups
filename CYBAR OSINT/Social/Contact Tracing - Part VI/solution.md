@@ -24,9 +24,9 @@ Flag format: CYBAR{x x}
 ## Solution 
 
 Pong tweeted about getting a speeding ticket and his license plate.
-![speeding ticket](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/speeding%20ticket.jpg)
-![license plate](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/license%20plate.png)
-Simply enter the lisence plate in a government [website](https://www.service.transport.qld.gov.au/checkrego/public/Welcome.xhtml), the information about the registered vehicle is shown. 
+![speeding ticket](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/speeding%20ticket.jpg)<br>
+![license plate](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/license%20plate.png)<br>
+Simply enter the lisence plate in a government [website](https://www.service.transport.qld.gov.au/checkrego/public/Welcome.xhtml), the information about the registered vehicle is shown. <br>
 ![result](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20VI/results%20of%20vehicle.jpg)
 
 ## Flag 
