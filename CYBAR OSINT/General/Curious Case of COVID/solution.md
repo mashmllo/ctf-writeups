@@ -44,4 +44,4 @@ Search Engines
 Video/Image Editing Software
 
 ## Included Files
-[Recorded Video]()
+[Recorded Video](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/General/Curious%20Case%20of%20COVID/curious_case_of_covid.mp4)
