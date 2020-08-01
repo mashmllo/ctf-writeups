@@ -23,8 +23,8 @@ Flag format: CYBAR{x}
 
 ## Solution 
 
-On Marc Hevis Twitter profile there is a video about pollution and not being able to go onto their balcony. 
-[![video](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%201/wfh_part_1.mov)](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%201/wfh_part_1.mov)
+On Marc Hevis Twitter profile there is a video about pollution and not being able to go onto their balcony. <br>
+[Video he took](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/WFH%20(EoM)%20-%20Part%201/wfh_part_1.mov)
 
 By observing landmarks, a building with a face (Barak Building) can be located.
 
