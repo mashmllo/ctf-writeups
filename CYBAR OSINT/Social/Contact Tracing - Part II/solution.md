@@ -24,7 +24,7 @@ Flag format: CYBAR{x}
 ## Solution 
 
 Looking at the images she drew, there is an image titled "The day it all changed". When the image is viewed, a volcano is shown and the word "Hawaii" is mentioned. 
-![volcano]()
+![volcano](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20II/contact_tracing_2.jpg)
 By comparing the volcanoes in Hawaii, the drawing looks similiar to mount Kilauea.  
 
 
