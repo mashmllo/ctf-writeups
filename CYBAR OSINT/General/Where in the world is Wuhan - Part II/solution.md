@@ -38,4 +38,4 @@ Paint/Image Tools
 Logic googling
 
 ## Included Files
-[Map Image]()
+[Map Image](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20II/where_is_wuhan_2.jpg.jpg)
