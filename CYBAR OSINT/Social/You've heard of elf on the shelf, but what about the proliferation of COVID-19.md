@@ -3,15 +3,15 @@
 ## Details 
 
 Category: SOCIAL
-<br>
+
 Type: Automatic
-<br>
+
 Points: 50
-<br>
+
 Difficulty: Easy
-<br>
+
 Status: Playable after CTF ends
-<br>
+
 Real Person or Ficticious: Ficticious
 
 ## Description 
