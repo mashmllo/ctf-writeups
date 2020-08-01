@@ -22,6 +22,9 @@ Flag format: CYBAR{x}
 
 ## Solution 
 
+Using Marc's twitter account, we are able to find a BSSID address in one of his tweet. 
+![Wifi picture on Marc's tweet](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Pretty%20Fly%20for%20a%20WiFi/pretty_fly_for_a_wifi.png)
+Using [Wigle.net](https://wigle.net/), the location of Marc's second office can be tracked. 
 
 ## Flag
 
@@ -30,6 +33,3 @@ CYBAR{Ballarat}
 ## Website 
 
 [Marc's twitter page](https://twitter.com/HevisMarc)
-
-## Files Included 
-[Wifi picture on Marc's tweet](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Pretty%20Fly%20for%20a%20WiFi/pretty_fly_for_a_wifi.png)
