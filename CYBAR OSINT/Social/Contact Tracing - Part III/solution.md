@@ -24,7 +24,7 @@ Flag format: CYBAR{x}
 ## Solution 
 
 Looking at the images she drew, there is an image titled "My Favorite Place". When the image is viewed, coordinates are written in the image. 
-![fav place]()
+![fav place](https://github.com/mashmllo/ctf-writeups/blob/master/CYBAR%20OSINT/Social/Contact%20Tracing%20-%20Part%20III/contact_tracing_3.jpg)
 By entering the coordinates given into a [GPS coordinate website](https://www.gps-coordinates.net/), the location of her favorite park can be found. 
 
 
