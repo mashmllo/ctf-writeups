@@ -16,19 +16,19 @@ CYBAR is a not-for-profit event in Melbourne, Australia for students who have an
 
 ## General 
 
-[Where in the world is Wuhan - Part I](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20I) <br> <br>
+[Where in the world is Wuhan - Part I](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20I/solution.md) <br> <br>
 
-[Trojan Horse](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Trojan%20Horse) <br> <br>
+[Trojan Horse](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Trojan%20Horse/solution.md) <br> <br>
 
-[Static on the Wire](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Static%20on%20the%20Wire) <br> <br>
+[Static on the Wire](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Static%20on%20the%20Wire/solution.md) <br> <br>
 
-[Lies and Treason](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Lies%20%26%20Treason) <br> <br>
+[Lies and Treason](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Lies%20%26%20Treason/solution.md) <br> <br>
 
-[Fake News](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Fake%20News) <br> <br>
+[Fake News](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Fake%20News/solution.md) <br> <br>
 
-[Where in the world is Wuhan - Part II](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20II) <br> <br>
+[Where in the world is Wuhan - Part II](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Where%20in%20the%20world%20is%20Wuhan%20-%20Part%20II/solution.md) <br> <br>
 
-[Curious Case of COVID](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Curious%20Case%20of%20COVID) <br> <br>
+[Curious Case of COVID](https://github.com/mashmllo/ctf-writeups/tree/master/CYBAR%20OSINT/General/Curious%20Case%20of%20COVID/solution.md) <br> <br>
 
 ## Social
 
